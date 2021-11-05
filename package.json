@@ -6,6 +6,9 @@
     "scripts": {
         "test": "jest",
         "build": "node suma"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FelipeAveM/gha_test_fam.git"
     }
-
 }
